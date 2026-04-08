@@ -1,7 +1,9 @@
-This is my agent knowedlge base consisting of expert agents and tester personas, organized in to 3 slach commands:
+# knowledge-base
 
-design-knoweldge - this holds all my experts and testers, great for just asking any question about design
+This is my agent knowledge base: expert agents and tester personas, organized into three slash commands.
 
-design-review - this is a full post-design review on a diff or image. It runs a series of testers to pick apart a design then passes that data to design psychology and theory experts who synthesis the data into a concise list of feedback suggestions
+- **design-knowledge** — Holds experts and testers; use it for general questions about design.
 
-design-research - a versitile command for doing researhc of planning research methods. Helps you ask the right questions to the right people.
+- **design-review** — Full post-design review on a diff or image. It runs testers against the design, then passes that to design psychology and theory experts who synthesize the findings into concise feedback.
+
+- **design-research** — Versatile command for research or for planning research methods. Helps you ask the right questions to the right people.
