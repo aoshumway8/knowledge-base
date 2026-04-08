@@ -1,8 +1,8 @@
 # knowledge-base
 
-This is my agent knowledge base: expert agents and tester personas, organized into three slash commands.
+This is my design knowledge base: expert agents and tester personas, organized into three slash commands.
 
-- **design-knowledge** — Holds experts and testers; use it for general questions about design.
+- **design-knowledge** — Holds all experts and testers; great for general questions about design.
 
 - **design-review** — Full post-design review on a diff or image. It runs testers against the design, then passes that to design psychology and theory experts who synthesize the findings into concise feedback.
 
