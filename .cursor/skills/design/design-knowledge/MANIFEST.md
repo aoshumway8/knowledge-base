@@ -44,3 +44,4 @@ Commands never hardcode agent paths — they resolve IDs through this file.
 | design-evaluation | experts/design-evaluation-expert.md | Evaluation method selection, research quality, when to use which method |
 | design-process | experts/design-process-expert.md | Design process stages, iteration strategy, failure modes |
 | questions | experts/questions-expert.md | Interview question design, anti-patterns, user research question crafting |
+| experience-value | experts/experience-value-expert.md | Experience vs. efficiency value, hedonic adaptation, peak-end design, dead time, experience economy positioning |

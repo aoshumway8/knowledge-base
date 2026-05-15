@@ -46,6 +46,7 @@ If the question is ambiguous or spans multiple domains, ask **one** clarifying q
 | Research method selection, mixed methods strategy, evaluation quality | `design-evaluation` |
 | Design process frameworks, stage diagnosis, anti-pattern detection | `design-process` |
 | Interview guide design, question crafting, facilitation technique, signal quality | `questions` |
+| Experience vs. efficiency, hedonic adaptation, peak-end design, dead time conversion, experience economy, why users value experience over practicality | `experience-value` |
 | Ambiguous or multi-domain | Ask one clarifying question, then route |
 
 ---
